@@ -12,7 +12,7 @@
     </h1>
     <div class="border-b mt-1 mb-3"></div>
     <h3 class="text-white text-xl uppercase">
-      Programmer, Musician, Drone Pilot
+      Software Developer, Musician, FPV Freestyle Drone Pilot
     </h3>
   </div>
 </template>
